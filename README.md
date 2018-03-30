@@ -41,7 +41,7 @@
 
 ![program](https://user-images.githubusercontent.com/36408283/38149082-cb01faee-3476-11e8-9bfe-7b54f457e57f.jpg)
  
-## For futher look into C++ do find the pdf
+## For further look into C++ do find the pdf
 
 [Welcome to C++.pdf](https://github.com/Andreasshajijacob/Learn-C/files/1864449/DS286.AUG2016.Lab2_.cpp_tutorial.pdf)
 
