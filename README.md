@@ -1,5 +1,5 @@
 # An Introduction to C++ Programming
-![771448_566f_5 1](https://user-images.githubusercontent.com/36408283/38146930-c07dd452-346d-11e8-9448-15f06b060b2e.jpg)
+![jjjpppp](https://user-images.githubusercontent.com/36408283/38149539-82512944-3478-11e8-90ce-ec98e49a4f66.jpg)
 
 **_C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. C++ runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This tutorial adopts a simple and practical approach to describe the concepts of C++._**
 - **_C++ is a statically typed, compiled, general-purpose, case-sensitive, free-form programming language that supports procedural, object-oriented, and generic programming._**
@@ -43,5 +43,5 @@
  
 > **_For futher look into C++ do find the pdf_**
 
-[DS286.AUG2016.Lab2_.cpp_tutorial.pdf](https://github.com/Andreasshajijacob/Learn-C/files/1864449/DS286.AUG2016.Lab2_.cpp_tutorial.pdf)
+[Welcome to C++.pdf](https://github.com/Andreasshajijacob/Learn-C/files/1864449/DS286.AUG2016.Lab2_.cpp_tutorial.pdf)
 
