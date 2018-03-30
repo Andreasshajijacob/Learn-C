@@ -36,8 +36,9 @@
 - **_Step 5 Compile your code with g++ main.cpp_**
 - **_Step 6 Run your program by typing:./a.out_**
  > **_Example_**
- **_How to print "Hello World" in C++_**
- ![program](https://user-images.githubusercontent.com/36408283/38149082-cb01faee-3476-11e8-9bfe-7b54f457e57f.jpg)
+
+**_How to print "Hello World" in C++_**
+![program](https://user-images.githubusercontent.com/36408283/38149082-cb01faee-3476-11e8-9bfe-7b54f457e57f.jpg)
  
  
 
