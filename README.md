@@ -22,5 +22,7 @@
 
 - **_Step 1	Double click on "Turbo C++" shortcut link on the desktop._**
 
+![turbo-cpluspluss](https://user-images.githubusercontent.com/36408283/38148046-6a8d1ec2-3472-11e8-96d8-ea83f9f9aef0.jpg)
+
 - **_Step 2	If you want run turbo c++ on full screen simply click on button "Run Turbo C++"_**
 - **_Step 3	"OR" If you not want full screen mode uncheck the "Full screen mode" check box and click on button "Start Turbo C++"_**
