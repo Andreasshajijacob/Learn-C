@@ -18,7 +18,7 @@
 - **_Step 4	 Run "setup.exe" file._**
 - **_Step 5	 Follow the setup instructions._**
 
-## How to use Turbo c++
+## How to use Turbo c++ :
 
 - **_Step 1	Double click on "Turbo C++" shortcut link on the desktop._**
 
@@ -26,3 +26,15 @@
 
 - **_Step 2	If you want run turbo c++ on full screen simply click on button "Run Turbo C++"_**
 - **_Step 3	"OR" If you not want full screen mode uncheck the "Full screen mode" check box and click on button "Start Turbo C++"_**
+
+## How to write a C++ :
+
+- **_Step 1 Create a main program file. The main file must include a function called main(). This is where execution of the program begins. From here, you should be calling functions, instantiating classes, etc. Other files of your application as well as libraries can be included into this file._**
+- **_Step 2 Begin writing your program. Insert your code or the program that you need to build (see below for a few examples). Learn the syntax, semantics, Object-Oriented Programming paradigms, data striations, algorithm designs such as linked lists, priority queues, etc. C++ is not an easy language to program in, but doing so teaches you the fundamentals that extend to all programming languages._**
+- **_Step 3 Insert comments in your code. Explain what your functions do and what variables are for. Choose clear names for variables and functions. Capitalize the names of global variables. In general: make sure that anyone reading your code can understand it._**
+- **_Step 4 Use proper indenting in your code._**
+- **_Step 5 Compile your code with g++ main.cpp_**
+- **_Step 6 Run your program by typing:./a.out_**
+ > **_Example_**
+ 
+
