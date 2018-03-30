@@ -1,4 +1,4 @@
-# An Introduction to C Programming
+# An Introduction to C++ Programming
 ![771448_566f_5 1](https://user-images.githubusercontent.com/36408283/38146930-c07dd452-346d-11e8-9448-15f06b060b2e.jpg)
 
 **_C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. C++ runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This tutorial adopts a simple and practical approach to describe the concepts of C++._**
@@ -18,7 +18,7 @@
 - **_Step 4	 Run "setup.exe" file._**
 - **_Step 5	 Follow the setup instructions._**
 
-## How to use Turbo c++ :
+## How to use Turbo C++ :
 
 - **_Step 1	Double click on "Turbo C++" shortcut link on the desktop._**
 
@@ -38,7 +38,10 @@
  > **_Example_**
 
 **_How to print "Hello World" in C++_**
+
 ![program](https://user-images.githubusercontent.com/36408283/38149082-cb01faee-3476-11e8-9bfe-7b54f457e57f.jpg)
  
- 
+> **_For futher look into C++ do find the pdf_**
+
+[DS286.AUG2016.Lab2_.cpp_tutorial.pdf](https://github.com/Andreasshajijacob/Learn-C/files/1864449/DS286.AUG2016.Lab2_.cpp_tutorial.pdf)
 
